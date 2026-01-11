@@ -35,4 +35,4 @@ This project demonstrates how to control an LED wirelessly using an ESP32 develo
 5. Open your mobile app/browser and start controlling!
 
 ## 📺 Video Tutorial
-Check out the full build video on YouTube: [Insert Your YouTube Link Here]
+Check out the full build video on YouTube: [https://youtu.be/7LOTXO4Qqg0]
